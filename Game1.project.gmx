@@ -60,7 +60,8 @@
   <rooms name="rooms">
     <room>rooms\rm_outside1</room>
     <room>rooms\rm_test</room>
-    <room>rooms\room3</room>
+    <room>rooms\rm_mainHall</room>
+    <room>rooms\rm_1stFloor</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
