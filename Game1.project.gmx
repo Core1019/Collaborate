@@ -56,11 +56,13 @@
       <object>objects\obj_wallTop</object>
     </objects>
     <object>objects\obj_door</object>
+    <object>objects\obj_roomSwitchTest</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\rm_groundFloorMainHall</room>
+    <room>rooms\rm_groundFloorLeftSide</room>
     <room>rooms\rm_outside1</room>
     <room>rooms\rm_test</room>
-    <room>rooms\rm_mainHall</room>
     <room>rooms\rm_1stFloor</room>
   </rooms>
   <help>
